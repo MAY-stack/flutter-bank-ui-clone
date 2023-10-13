@@ -1,1 +1,1 @@
-# flutter-bankUIClone
+# flutter-bank-ui-clone
